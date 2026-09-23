@@ -1,0 +1,3 @@
+module github.com/henrylee5206/latency-pulse
+
+go 1.21
